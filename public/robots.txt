@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://travel-with-us.net
+
+# Sitemaps
+Sitemap: https://travel-with-us.net/sitemap.xml
